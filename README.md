@@ -1,4 +1,4 @@
-Exporting my vim stuff, mostly for moving around.  And maybe someone else will find it helpful.
+This repository is mostly for my own convenience when I jump among machines.  And maybe someone else will find it helpful.
 
 I try to follow the coding conventions here:
 
