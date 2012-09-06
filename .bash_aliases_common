@@ -1,0 +1,10 @@
+### Aliases Meta
+alias ebash='vim ~/.bash_aliases'
+alias sbash='source ~/.bash_aliases'
+
+### Tmux
+alias t='tmux new-session -s'
+alias ta='tmux attach -t'
+
+### Grepping
+alias ack='ack-grep'
