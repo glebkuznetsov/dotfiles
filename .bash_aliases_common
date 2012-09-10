@@ -8,3 +8,11 @@ alias ta='tmux attach -t'
 
 ### Grepping
 alias ack='ack-grep'
+
+### Commandline nav convenience
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+alias ......='cd ../../../../..'
+alias .......='cd ../../../../../..'
