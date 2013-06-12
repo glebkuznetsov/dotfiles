@@ -1,0 +1,10 @@
+[user]
+	name = glebk
+	email = gleb.kuznetsov@gmail.com
+[core]
+	editor = vim
+	excludesfile = /home/glebk/.gitignore_global
+[color]
+	diff = auto
+[alias]
+  s = status
