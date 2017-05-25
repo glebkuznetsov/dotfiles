@@ -1,9 +1,9 @@
 [user]
-	name = glebk
+	name = Gleb Kuznetsov
 	email = gleb.kuznetsov@gmail.com
 [core]
 	editor = vim
-	excludesfile = /home/glebk/.gitignore_global
+	excludesfile = ~/.gitignore_global
 [color]
 	diff = auto
 [alias]
