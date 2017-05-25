@@ -1,6 +1,12 @@
 This repository is mostly for my own convenience when I jump among machines.  And maybe someone else will find it helpful.
 
-I try to follow the coding conventions here:
+Quick setup:
+
+    git clone git@github.com:glebkuznetsov/dotfiles.git
+
+    ln -s ~/dotfiles/.* .
+
+Coding conventions:
 
 [Python - Google Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 
